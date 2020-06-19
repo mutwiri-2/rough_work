@@ -22,6 +22,8 @@ p {
 body {
     font-family: calibri, Arial, Helvetica, sans-serif;
     font-weight: 100;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 a:link {
