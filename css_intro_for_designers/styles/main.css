@@ -6,10 +6,18 @@ h2 {
     font-size: 27px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 900;
+    font-weight: 100;
+    text-transform: uppercase;
+
+}
+
 p {
     font-size: 18px;
 }
 
 body {
     font-family: calibri, Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
