@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
     font-size: 18px;
+    max-width: 750px;
 }
 
 body {
@@ -24,6 +25,7 @@ body {
     font-weight: 100;
     max-width: 1200px;
     margin: 0 auto;
+    padding: 60px;
 }
 
 a:link {
@@ -44,4 +46,8 @@ a:active {
 
 li {
     margin-bottom: 5px;
+}
+
+figure {
+    margin-left: 0;
 }
