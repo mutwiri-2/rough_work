@@ -69,3 +69,31 @@ td {
     padding-right: 30px;
     padding-top: 10px;
 }
+
+input {
+    margin-left: 10px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(247, 247, 247);
+}
+
+textarea {
+    border: none;
+    background-color: rgb(247, 247, 247);
+}
+
+fieldset {
+    max-width: 400px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    font-family: sans-serif;
+    background-color: rgb(178, 109, 147);
+    color: rgb(247, 247, 247);
+}
+
+button:hover {
+    background-color: rgb(117, 41, 90);
+}
